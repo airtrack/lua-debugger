@@ -6,4 +6,4 @@ and load it. Then you can use debugger.addfuncbreak to add a
 function break point or debugger.addlinebreak to add line break point.
 This debugger uses command-line interacting with you, so your project
 should enable standard io. when breaking a point, you can do some
-operations, which is familiar with gdb, and you can type 'h' for help.
+operations, which is similar to gdb, and you can type 'h' for help.
