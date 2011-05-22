@@ -1,6 +1,6 @@
 A simply command line lua debugger.
 
-This debugger commonly use in C/C++ project with lua,
+This debugger commonly is used in C/C++ project with lua,
 add debugger.lua file to the project's lua script directory,
 and load it. Then you can use debugger.addfuncbreak add a
 function break point or debugger.addlinebreak add line break point.
