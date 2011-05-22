@@ -1,0 +1,9 @@
+A simply command line lua debugger.
+
+This debugger commonly use in C/C++ project with lua,
+add debugger.lua file to the project's lua script directory,
+and load it. Then you can use debugger.addfuncbreak add a
+function break point or debugger.addlinebreak add line break point.
+this debugger use command-line interact with you, so your project
+should enable standard io. when break a point, you can do some
+operations, is familiar with gdb, and you can type 'h' for help.
